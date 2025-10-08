@@ -1,0 +1,34 @@
+Leetcode 1
+surah al raad 
+internship preparation
+Essay preparation
+
+
+1 - BODMAS
+2- Fraction and percentages
+3- Loss and profit
+4- Averages
+5- Ratio and proportions
+6- mean
+7- Median
+8- Mode
+9- Range
+10- Linear Equations
+11- Quadric Equations
+12- Simultaneous Equations
+13- Square and Roots
+14- Cube and Roots
+15- Linear Inqualities
+16- Zakat and Ushar
+17- Perfect Numbers
+18- Range of function and Domin of functino
+19- Clock Angles
+20- Sum of Roots
+21- Product of Roots
+22- Complete Triangle
+23- Polygons
+24- Word problems
+25- Common Denominator
+26- Number system
+27- age problem
+
