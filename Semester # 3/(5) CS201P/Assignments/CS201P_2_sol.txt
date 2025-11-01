@@ -1,0 +1,62 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+class BankAccount {
+private:
+    string accountHolderName;
+    string accountNumber;
+    int balance;
+
+public:
+    // Parameterized constructor
+    BankAccount(string name, string accNo, int initialBalance) {
+        accountHolderName = name;
+        accountNumber = accNo;
+        balance = initialBalance;
+
+        cout << "Account Created Successfully!\n";
+        cout << "Account Holder Name: " << accountHolderName << endl;
+        cout << "Account Number (VUID): " << accountNumber << endl;
+        cout << "Initial Balance: " << balance << endl << endl;
+    }
+
+    void deposit(int amount) {
+        cout << "Depositing amount: " << amount << endl;
+        balance += amount;
+        cout << "Balance after deposit: " << balance << endl << endl;
+    }
+
+    void withdraw(int amount) {
+        cout << "Withdrawing amount: " << amount << endl;
+        if (balance >= amount) {
+            balance -= amount;
+            cout << "Balance after withdrawal: " << balance << endl << endl;
+        } else {
+            cout << "Insufficient Balance" << endl << endl;
+        }
+    }
+
+    void displayDetails() {
+        cout << "----- Account Summary -----" << endl;
+        cout << "Account Holder: " << accountHolderName << endl;
+        cout << "Account Number: " << accountNumber << endl;
+        cout << "Current Balance: " << balance << endl;
+    }
+};
+
+int main() {
+    // Create BankAccount object with hardcoded values
+    BankAccount acc("Muhammad Arif", "BC240205517", 10000);
+
+    // Deposit: last 4 digits of VUID = 5517
+    acc.deposit(5517);
+
+    // Withdraw: first 4 digits of VUID = 2402
+    acc.withdraw(2402);
+
+    // Display account summary
+    acc.displayDetails();
+
+    return 0;
+}

@@ -1,0 +1,17 @@
+page 1 = hero section 
+page 2 = Affordable SEO page 
+page 3 = Marketplace Preview Section (Table)
+page 4 =  reviews company names connected persons cards
+page 5 = Start New Compagin form
+page 6 = Global International SEO
+page 7 = 	Featured Packages / Quick Order
+page 8 = Investment  Section (same like page 2)
+page 9 = Benefits or Program (cards)
+page 10 = What our customers think 
+page 11 =  reseller program 
+page 12= Read our Popular Blogs
+page 13 = Get Started Today
+page 14 = form page
+page 15 = Frequently Asked Questions
+page 16 = footer sections
+
