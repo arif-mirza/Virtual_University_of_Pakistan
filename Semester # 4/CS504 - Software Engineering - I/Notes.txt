@@ -1,0 +1,37 @@
+Lecture No. 8
+State Transition Diagrams
+what is trouble? problem in communication affect on network service.
+trouble states?
+	-queue
+	-open/active
+	- deferred
+	- cleared
+	- closed
+	- disabled
+Arranging information in tabular form 
+	- external inputs
+	- external outputs
+	- externl inquiry
+
+Data Flow Model 
+The Notations
+	- process
+	- external Agent
+	- store data
+	- data flow
+
+DFD VS flow chart
+
+Lecture No. 9
+CRUD Operations
+Context Level Data Flow Diagram = L0
+Detailed Data Flow diagrams = L1
+Illegal Data Flows
+	- Directly Communicating External Agents
+	- External Agent updating information in a Data  Store
+	- External Agent accessing information from a Data  Store
+	- Copying data to a data store
+	
+Lecture No. 10 --- Prototyping and GUI Design
+what is GUI?
+what is prototype?
