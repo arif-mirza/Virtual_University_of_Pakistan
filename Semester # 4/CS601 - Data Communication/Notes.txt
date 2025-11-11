@@ -1,0 +1,76 @@
+topic 29 -47
+
+comunication at physical layar
+Analog & digital data
+analog =>  continuous hotahy infinte level of intensity over time.
+digital => limited number of defined values
+
+periodic & non-periodic signals 
+periodic signal -> pattern
+period and cycle
+non-periodic -> no pattern
+
+periodic analog signals
+  -> simple or composite
+simple periodic analog sigals -> sine waves
+
+composite periodic analog -> composed of multiple sine waves
+
+Sine Wave - peak amplitude and low peak amlitude
+
+Sine Wave - Frequency 
+  -> period (T) -> amount of time required to complete 1 cycle
+  -> Frequency (f) -> no. of periods in 1 sec
+  -> f = 1/t or T = 1/f
+  ->  nomericals 
+
+period & frequency units
+s,ms,ns,ps = hz,khz,mhz,ghz,thz
+
+phase (or phase shift) - signal ki shakal ko phase kahte hen. 
+
+what is wavelength? apka connection kese ja raha
+formula of wavelength : lamda = c/f
+time and frequency domains
+
+what is composite signals? 
+what is decomposition of composite periodic signal?
+what is bandwidth? how can we measure it? hz  or bps
+
+how can we find the bandwidth of a composite signals? b = fh - fl
+what is bit rate? transfer of bit in one second?
+
+what is bit length? bit length =  propagation speed * but duration
+
+what is transmission of digial signals? 
+Two appraoches for transmisson: 
+	baseband transmission
+	braodband transmission
+
+Transmission impairments konse hen? attenuation, noise, distortion
+Attenuation formula? 10log10 p2/p1.
+how to find db? formula?
+
+topic 48 - 53
+
+what is noise? how it affect?
+noise - signal to noise ratio (SNR)
+snr = average signal power / average noise power
+examples by using snr formula
+
+noiseless channel: Nyquist Rate formula & shannon formula
+what is network performance?
+there 3 characteristics: bandwidth + through put + latency
+what is through put ?
+what is latency?
+
+what is delay - bandwidth delay product?
+
+bandwidth-delay product 
+volume = bandwidth * delay
+delay - jitter? 
+
+
+
+Topic 54 - 60
+
