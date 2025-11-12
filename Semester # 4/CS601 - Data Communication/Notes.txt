@@ -74,3 +74,19 @@ delay - jitter?
 
 Topic 54 - 60
 
+digital to digital conversion
+ 	data -> analog or digital
+	signal -> analog or digital 
+	digital transmission
+	analog transmission
+what is line coding, block coding , scrambling
+-signal element vs data element
+
+what is line coding? 
+line coding schemes? 5 categories
+	-unipolar  === nrz scheme
+	- polar     === rz, NRZ
+	- bipolar  === AMI or psedoternary
+	- multilevel  === 2B1Q
+	- multitransition
+

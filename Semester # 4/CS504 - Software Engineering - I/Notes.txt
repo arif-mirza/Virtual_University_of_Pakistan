@@ -35,3 +35,42 @@ Illegal Data Flows
 Lecture No. 10 --- Prototyping and GUI Design
 what is GUI?
 what is prototype?
+
+Lecture No. 11 --- software design
+
+what is software design process?
+what is software design strategies?
+what is software design qualities?
+what is software maintainable design?
+
+
+Lecture No. 12 --- Coupling and Cohesion
+
+ak module ka dosre module k sath bonding coupling or ak module k andar ki bonding cohesion 
+
+there are two tow types of each one. low or high
+Abstraction and Encapsulation
+
+Function Oriented versus Object Oriented Design
+
+Lecture No. 13 --- Object oriented analysis and design
+	- Difference between object-oriented and function-oriented design 
+	- Object Oriented Design Components - What? The Object and the Class
+	-classification
+ 	- what is object model?
+	- aggregation and association?
+
+
+Lecture No. 14 --- Object Oriented Analysis
+- four layers of oo design 
+	- subsysterm layer
+	- class and object layar
+	- the message layar
+	- responsibillty layar
+
+
+Lecture No. 15 --- The notation
+UML (unified modeling language)
+
+
+
