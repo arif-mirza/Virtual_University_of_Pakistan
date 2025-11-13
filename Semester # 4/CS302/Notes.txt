@@ -1,0 +1,6 @@
+lecture # 09
+
+what is minterm or maxterm?
+converting standard sop into standard pos
+
+lecture # 10 - KARNAUGH MAP (k-map)
