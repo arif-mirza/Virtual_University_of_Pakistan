@@ -4,3 +4,20 @@ what is minterm or maxterm?
 converting standard sop into standard pos
 
 lecture # 10 - KARNAUGH MAP (k-map)
+how to draw k map
+	- find the total variables
+	- how to find the rows and columns (divider ki power leni hy like 2^1 or 2^2)
+	- write the posible values
+	- gray code rule follow karna hy 
+	- row agar 0 hy tu sari row me 0 likhna hy agar 1 hy tu sari row me 1 
+	- phir binary bnani hy then us ki value likhni hy 
+	- phir hamne question k hisab se 1 , 1 put krna hy aur baki par 0 put karna hy
+	- phir pair bnane hen (must be power of 2, must be adjacent cell, try no reapeating duplicates)
+	- phir har pair k hisab se agar same binary wale ko likhna hy for example (cell 2, cell 6 = 100, 110 is me 1 aur 1 ka A aur 0 ,1 skip hoga aur 0,0 ka cBar)
+	-final answer f = BC + AC	
+	
+
+lecture # 11 - KARNAUGH MAP (k-map) with pos or sop
+	- mintern ka result me 1 put hota hy
+	- maxterm ka result me 0 put karte hen
+	- 
