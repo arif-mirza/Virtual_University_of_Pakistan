@@ -1,3 +1,5 @@
+Important lectures 2,5,8,9,10,13,18
+
 lecture # 09
 
 what is minterm or maxterm?
@@ -20,4 +22,18 @@ how to draw k map
 lecture # 11 - KARNAUGH MAP (k-map) with pos or sop
 	- mintern ka result me 1 put hota hy
 	- maxterm ka result me 0 put karte hen
+	- 7 segment displays 
 	- 
+
+lecture # 13 - combinational circuits
+	- function table ofo adjacent 1s detector
+	- active low/high input and outputs (aysi input jin me not gate ka use na ho us ko active high input kahte hen aur jin me use kiya gaya ho tu us ko low input kahte hen)
+
+lecture # 14 
+	- odd parity genarator circuit
+	- k map of odd parity genarator circuit
+	- XOR or XNOR gates
+	- half adder
+	- full adder
+	- half adder table function
+
