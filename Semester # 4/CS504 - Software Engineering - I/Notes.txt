@@ -72,5 +72,9 @@ Lecture No. 14 --- Object Oriented Analysis
 Lecture No. 15 --- The notation
 UML (unified modeling language)
 
+Lecture No. 16 --- Derivation of the Object Model – The Coad Methodology
+
+	- peter code divide object model into 5 activies
+	- 		
 
 

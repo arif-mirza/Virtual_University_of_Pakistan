@@ -36,4 +36,5 @@ lecture # 14
 	- half adder
 	- full adder
 	- half adder table function
+	- exclusive or and table
 
