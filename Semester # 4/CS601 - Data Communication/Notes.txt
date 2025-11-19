@@ -94,7 +94,23 @@ Topic 61 - 75
 	- block coding
 	- 4b/5b mapping codes
 	- example of block coding
-	- 
+	- Formaulas NRZ-I = N/2
+	- 8B/10B blcok encoding
+	- scrambling (lan k sath kam karta hy)
+	- biplor ami has a narrow bandwidth
+Types of scrambling techniques
+ 	- town common techniquries are B8ZS AND HDB3
+	- biploar has 8 zero substitution
+	- high dessity bipor as 3-zero hdb3
+
+Analog to digital conversion
+	- process of digitazation
+	-  two techniques 
+		- pulse code modulation (PCM) 
+		- Delta modulation (for decoding)
+	- Nyquist sampling Rate
+		- fs = 2fh
+	- Transmission modes
 
 
 
