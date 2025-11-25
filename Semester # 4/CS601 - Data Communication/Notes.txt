@@ -111,9 +111,68 @@ Analog to digital conversion
 	- Nyquist sampling Rate
 		- fs = 2fh
 	- Transmission modes
+Lecture # 17
+Digital-to Analog Conversion
+	- Variation in Characteristics of Sine Wave 
+		- A sine wave is defined by 3 characteristics: (Amplitude, frequency, phase) 
+	- Mechanisms for Modulating Digital Data to Analog Signals 
+		- Amplitude shift keying(ASK) 
+		- Frequency shift keying(FSK) 
+		- Phase shift keying (PSK) 
+	- Bit Rate & Baud Rate
+		- Bit rate: no of bits transmitted during one second 
+		- Baud rate: no of signal units per second that are required 
 
 
+	Example 5.6 
+	An analog signal carries 4 bits in each signal element.If 1000 signal elements are sent per 
+	second, find the Baud Rate and Bit Rate? 
+	Solution: 
+	–Baud Rate= Number of Signal Elements   
+	–Baud Rate =1000 bauds/second 
+	–Bit Rate=Baud Rate * Number of bits per signal element 
+	–Bit Rate= 1000 * 4 = 4000 bps 
 
+ 
+
+Bit Rate and Baud Rate 
+Carrier Signals 
+Amplitude Shift Keying (ASK)
+
+=============================================
+Lecture # 18
+Summary 
+Digital-to Analog Conversion 
+Frequency Shift Keying (FSK)
+	- varied to represent binary 0 to 1.
+	- Both peak amplitude and phase remains constant	
+	- Effect of Noise on FSK 
+		- Avoids most of the Noise problems of ASK 
+		-  Frequency Shift=Difference b/w two carrier frequencies 
+		- BW= (fc1 – fc0) +Nbaud 
+		- Example 5.11 (Find the minimum BW for an FSK signal transmitted at 2000 bps. TX is in half duplex 
+mode and carrier must be separated by 3000 Hz )
+		-Baud rate is the same as bit rate 
+                            BW=2000 + (fc1 – fc0) = 2000 + 3000 = 5000 Hz  
+
+Phase Shift Keying (PSK) 
+	- varied to represent binary 0 to 1.
+	- 2PSK (Binary PSK)
+	- bit diagram and constellation diagram
+	- Effect of Noise on PSK 
+		- PSK is not susceptible to the noise degradation
+		-  4PSK 
+			- BW for PSK 
+				- Minimum bandwidth required for PSK transmission is the same 
+as ASK 
+Quadrature Amplitude Modulation (QAM) 
+ 	-Variation of QAM 
+	- 4 QAM & 8 QAM (Figure) 
+	-  Bandwidth for QAM 
+	- Bit Baud Comparison 
+	- Example 5.11 
+		A constellation diagram consists of eight equally spaced points on a circle. If bit rate is 4800 bps, what is the Baud Rate? 
+	- Constellation indicates 8 PSK with the points 45 degree apart Baud Rate= 4800 / 3 = 1600 baud 
 
 
 

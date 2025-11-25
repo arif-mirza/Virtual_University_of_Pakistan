@@ -3,6 +3,8 @@ Important lectures 2,5,8,9,10,13,18
 lecture # 09
 
 what is minterm or maxterm?
+	- minterm = sop 1 wali minterm hoti hy
+	- maxterm = pos 0 wali maxterm hoti y
 converting standard sop into standard pos
 
 lecture # 10 - KARNAUGH MAP (k-map)
