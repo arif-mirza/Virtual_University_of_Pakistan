@@ -111,6 +111,42 @@ Analog to digital conversion
 	- Nyquist sampling Rate
 		- fs = 2fh
 	- Transmission modes
+
+
+
+
+=============================================
+Lecture # 15
+Summary 
+ Types of Digital-To-Digital Encoding 
+ Polar Encoding 
+	– Return to Zero (RZ) Encoding 
+		- rz use 3 values positive, negative and 0.
+	– Biphase Encoding 
+		- biphase encoding has two types manchester and differential manchester
+ Bipolar Encoding 
+	Bipolar encoding has three types:
+		- AMI
+		- B8ZS
+		- HDB3
+
+
+
+
+=============================================
+Lecture # 16
+Summary 
+ Analog-to-Digital Conversion 
+	- types of digital conversations are 3 polar, bipolar and unipolar
+	- Pulse Amplitude modulation (PAM)
+		-pulses are still in analog we have to use PCM to make them digital.
+ Pulse Code Modulation (PCM) 
+	o Modifies pulses created by PAM to a complete digital signal 
+		o Pulse Amplitude Modulation (PAM) 
+		o Quantization = PCM’s first step is Quantization
+		o Binary Encoding 
+		o Digital-To-Digital Conversion															`													
+=============================================
 Lecture # 17
 Digital-to Analog Conversion
 	- Variation in Characteristics of Sine Wave 
