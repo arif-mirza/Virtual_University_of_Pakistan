@@ -113,8 +113,104 @@ Analog to digital conversion
 	- Transmission modes
 
 
+=============================================
+
+lecture # 1
+
+Telegraph 1837 Samuel Morse
+Telephone 1876 Alexander Graham Bell
+
+Components of Data Com Systems
+    ¾ Message
+    ¾ Sender
+    ¾ Receiver
+    ¾ Medium    
+    ¾ Protocol 
+
+Twisted Wire = 300bps-10Mbps = Low
+Microwave = 256Kbps-100Mbps = Low
+Coaxial Cable = 56Kbps-200Mbps = Low
+Fiber Optic Cable = 500Kbps-10Gbps = High
+
+what is protocols? = Set of Rules Governing Communication
+
+LECTURE #2
+
+data Communication network area
+    -  performance
+    -  readability
+    -  secuiry
+
+Summary
+     Key Data Communication Terminology
+     Networks and why we need them?
+     Distributed Processing 
+     Network Criteria 
+     Network Application
 
 
+LECTURE #3
+Summary
+     Communication Tasks
+     Protocols = Protocol is a set of rules governing communication
+        KEY elements of a PROTOCOL
+            - Syntax
+            - Semantics
+            - Timing
+     Protocol Architecture
+        File transfer could use three modules
+            - File transfer application
+            - Communication service module
+            - Network access module
+     Characteristics of a Protocol 
+        ¾ Direct or indirect
+        ¾ Monolithic or structured
+        ¾ Symmetric or asymmetric
+        ¾ Standard or nonstandard 
+
+
+LECTURE #4
+Summary
+     Standards
+        two types by 
+            1-  by law 
+            2-  by fact
+                has two types PROPRIETARY (Closed Standards) and NON- PROPRIETARY (Open Standards) 
+
+                
+
+     Standard Organizations
+        ¾ Standard Creation Committees
+            ¾ ISO 
+              others
+        ¾ Forums
+        ¾ Regulatory Agencies
+     Line Configuration
+        line Configuration has two types 
+            - point to point (TV Remote Control and TV Control Systems)
+            - multipoint (has two types as well)
+                - Spatially Shared 
+                    - several devices can share the link simultaneously
+                - Time Shared
+                    - 
+     Categories of Line Configuration 
+
+
+LECTURE #5
+Summary
+     Topology
+     Categories of Topologies 
+=============================================
+LECTURE #7
+Summary
+	Categories of Networks
+	Internetworks 
+ 	The OSI Mode
+=============================================
+LECTURE #8
+Summary
+ 	The OSI Model 
+ 	Function of Layers 
 =============================================
 Lecture # 15
 Summary 
