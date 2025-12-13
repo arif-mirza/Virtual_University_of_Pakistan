@@ -1,4 +1,19 @@
 Important lectures 2,5,8,9,10,13,18
+lecture # 03
+hexadecimal number system?
+Binary to Hexadecimal Conversion 
+Hexadecimal to Binary Conversion 
+Decimal to Hexadecimal Conversion 
+There are two methods to convert from Decimal to Hexadecimal.
+	- 1. Indirect Method 
+	- 2. Repeated Division-by-16 Method 
+Hexadecimal to Decimal Conversion 
+	1. Indirect Method 
+	2. Sum-of-Weights Method 
+lecture # 04
+Octal number system
+The BCD Code 
+The Gray Code (XOR)
 
 lecture # 09
 
