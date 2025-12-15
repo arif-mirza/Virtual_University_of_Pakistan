@@ -55,3 +55,15 @@ lecture # 14
 	- half adder table function
 	- exclusive or and table
 
+==================
+
+paper aya tha
+bealon  exprestion diya tha sop find karna tha
+1 question decoder me se tha
+short k map me se sop exprestion
+long
+maping or  odd bit parity
+mcq conversion decimal hexadecimal gates etc
+conversion wala questions
+decoder questions
+
