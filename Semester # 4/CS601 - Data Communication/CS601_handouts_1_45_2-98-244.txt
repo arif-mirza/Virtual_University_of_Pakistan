@@ -884,26 +884,6 @@ of the
 
 o The first method demands that both transmitter and receiver be placed
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Summary
 
 within line-of-sight distances and is limited by the curvature of the earth
@@ -2111,14 +2091,6 @@ Hamming Code
 * Each r bit is the VRC bit for one combination of data bits
 * r1(r2) bit is calculated using all bit positions whose binary representation includes a 1 in the first(second) position, and so on
 
-
-
-
-
-
-
-
-
 Data Link Layer
 Introduction
 o Unless accurately received by a 2nd device, a signal TX over a wire is a waste of electricity
@@ -2366,20 +2338,7 @@ Any of the 3 frame types can be lost in transit:
 > Lost ACK Frame
 > Lost NAK Frame
 
-
-
-
 * Lost ACK, NAK Frame
-
-
-
-
-
-
-
-
-
-
 ?
 Summary
 * Flow Control
@@ -2886,21 +2845,6 @@ o In 1985, the computer society of IEEE started a project called PROJECT 802 to 
 o This project does not seek to replace any part of the OSI Model
 o Instead it is a way of specifying functions of physical layer , the data link layer and up to some extent the network layer to allow for interconnectivity of major LAN protocols
 o The relationship of IEEE project 802 to the OSI Model is shown in the figure:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-•
 o IEEE has divided the data link layer into two sub-layers:
 Logical Link Control (LLC) Medium Access Control (MAC)
 o LLC is non-architecture specific i.e. it is the same for all IEEE-defined LANs
@@ -2914,22 +2858,6 @@ PROJECT 802
 o Strength of Project 802 is Modularity
 o By subdividing the functions necessary for LAN management, the designers were able to standardize those that can be generalized and isolate those that must remain specific
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-•
 > IEEE 802.11
 o Is the section of Project 802 devoted to internetworking issues in LANs and MANs
 o Although not yet complete, it seek to resolve the incompatibilities b/w network architectures w/o requiring modifications in existing addressing, access, and error recovery mechanisms
@@ -2977,22 +2905,6 @@ This is called ETHERNET
 
 Categories of 802.3-Figure
 
-
-
-
-
-
-
-
-
-
-
-
-•
-
-
-
-
 IEEE 802.3 defines two categories:
 -BASEBAND
 -BROADBAND
@@ -3037,24 +2949,6 @@ o In CSMA/CD, the station wishing to transmit first listens to make certain the 
 
 o During the data transmission, the station checks for the extremely high voltages that indicate a collision
 o If a collision is detected, the station quits the current TX and waits a predetermined amount of time for the line to clear, then sends its data again
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 • ?
 
 > Addressing
@@ -3082,20 +2976,6 @@ o In this case, the length of each segment is limited to 500 meters
 o However to reduce collisions, the total length of the bus should not exceed 2500 meters (5 segments)
 o Also the standard demands that each station be separated from each other 2.5 meters
 o 200 stations per segment and 1000 stations total
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 • ?
 
 Topology of 10 Base 5
@@ -3134,6 +3014,12 @@ Summary
 Reading Sections
 * Section12.1, 12.2
 "Data Communications and Networking" 4th Edition by Behrouz A. Forouzan
+
+
+
+
+
+
 
 LECTURE #43
 Ethernet

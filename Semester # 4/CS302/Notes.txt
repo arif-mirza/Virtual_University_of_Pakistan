@@ -67,3 +67,5 @@ mcq conversion decimal hexadecimal gates etc
 conversion wala questions
 decoder questions
 
+lecture 21, 22, 23, 29, 34, 39 - 45
+
